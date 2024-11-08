@@ -6,6 +6,6 @@ This project implements AES (Advanced Encryption Standard) encryption and decryp
 
 ## Repository Structure
 
-AES - Contains all the AES version folders with .c, .py and .v files for design and simulation
-UART - Contains all the UART version folders with .v files
-Integrated UART AES
+- AES - Contains all the AES version folders with .c, .py and .v files for design and simulation
+- UART - Contains all the UART version folders with .v files
+- Integrated UART AES
